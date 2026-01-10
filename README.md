@@ -5,6 +5,12 @@
 
 <h1 align="center">Hi, I'm Eshan Dineth</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Software+Engineering+Student;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=eshandineth.eshandineth)
 
 <p align="justify">
