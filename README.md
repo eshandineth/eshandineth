@@ -52,7 +52,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshandineth&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eshandineth&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
 </p>
 
 <h2 align="center">Connect With Me</h2>
