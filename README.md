@@ -11,8 +11,6 @@
   </a>
 </p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=eshandineth.eshandineth)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eshandineth&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/eshandineth?tab=followers">
@@ -69,7 +67,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <a href="https://twitter.com/eshandineth">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/eshandineth">
+  <a href="https://www.instagram.com/_.es_haaa._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
