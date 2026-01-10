@@ -25,13 +25,13 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark" alt="Frontend & Backend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,php,laravel&theme=dark"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,firebase,docker,git&theme=dark" alt="Languages & Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,aws,mysql,postgres,mongodb&theme=dark"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,aws,linux&theme=dark" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,github&theme=dark"/>
 </p>
 
 <h2 align="center">GitHub Stats</h2>
