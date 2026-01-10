@@ -45,9 +45,16 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">GitHub Trophies</h2>
 
