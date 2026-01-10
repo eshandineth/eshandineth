@@ -1,12 +1,12 @@
-<![CDATA[<!-- Header Image -->
+<![CDATA[<!-- Animated Header Banner -->
 <p align="center">
-  <img src="header.png" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eshan%20Dineth&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=18&descAlignY=55"/>
 </p>
 
 <!-- Animated Greeting -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Eshan+Dineth;Software+Engineering+Enthusiast;Full-Stack+Developer;Problem+Solver+%7C+Code+Crafter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
