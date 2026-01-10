@@ -18,7 +18,11 @@
   </a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## About Me
 
@@ -26,7 +30,11 @@
 A passionate and driven software engineering student at APIIT Sri Lanka (Staffordshire University), eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## Tech Stack
 
@@ -40,10 +48,13 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,aws,linux&theme=dark" alt="Tools & Platforms"/>
 </p>
 
+<br>
+
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+<br>
+
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
@@ -54,24 +65,29 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
+<br>
+
 ---
 
-<!-- Trophies Section -->
-## 🏆 GitHub Trophies
+<br>
+
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eshandineth&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </p>
 
+<br>
+
 ---
 
-<!-- Connect Section -->
-## 🤝 Connect With Me
+<br>
+
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/eshandineth">
@@ -88,6 +104,8 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   </a>
 </p>
 
+<br>
+
 ---
 
 <!-- Footer -->
@@ -99,5 +117,5 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
-<h3 align="center">💜 Thanks for visiting! Let's build something amazing together! 💜</h3>
+<h3 align="center">Thanks for visiting! Let's build something amazing together!</h3>
 ]]>
