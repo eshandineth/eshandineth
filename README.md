@@ -11,15 +11,15 @@
   </a>
 </p>
 
+<p align="justify">
+A passionate and driven software engineering student at APIIT Sri Lanka (Staffordshire University), eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eshandineth&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <a href="https://github.com/eshandineth?tab=followers">
     <img src="https://img.shields.io/github/followers/eshandineth?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-</p>
-
-<p align="justify">
-A passionate and driven software engineering student at APIIT Sri Lanka (Staffordshire University), eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.
 </p>
 
 <h2 align="center">Tech Stack</h2>
