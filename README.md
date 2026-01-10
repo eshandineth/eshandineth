@@ -36,10 +36,10 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshandineth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
