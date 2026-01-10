@@ -22,19 +22,9 @@
 
 ## About Me
 
-<br>
-
-I'm a **Software Engineering undergraduate** at APIIT Sri Lanka, affiliated with Staffordshire University.
-
-<br>
-
-Currently exploring full-stack development and cloud technologies while building clean, efficient solutions.
-
-<br>
-
-**Open to internships and collaborations.**
-
-<br>
+<p align="justify">
+A passionate and driven software engineering student at APIIT Sri Lanka (Staffordshire University), eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.
+</p>
 
 ---
 
