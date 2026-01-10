@@ -21,23 +21,18 @@
 ---
 
 <!-- About Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```yaml
+🎓 Education    : B.Sc. (Hons) Software Engineering @ APIIT | Staffordshire University
+📍 Location     : Sri Lanka
+💼 Status       : Open to Internships & Collaborations
+📧 Email        : eshandineth@gmail.com
+```
 
-🎓 **Computer Science Undergraduate** passionate about creating elegant solutions
-
-💻 Currently exploring **Full-Stack Development** & **Cloud Technologies**
-
-🚀 Always learning and building innovative projects
-
-🌱 Open to **Internships**, **Collaborations** & **Freelance Opportunities**
-
-📫 Reach me at **eshandineth@gmail.com**
-
-⚡ Fun fact: *I debug with console.log and I'm proud of it!*
-
-<br clear="both">
+- 🔭 Currently exploring **Full-Stack Development** & **Cloud Technologies**
+- 🌱 Passionate about building clean, efficient solutions
+- ⚡ Fun fact: I debug with `console.log` and I'm proud of it!
 
 ---
 
