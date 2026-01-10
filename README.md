@@ -20,24 +20,19 @@
 
 ---
 
-<!-- About Section -->
-## 👨‍💻 About Me
+## About Me
 
-```yaml
-🎓 Education    : B.Sc. (Hons) Software Engineering @ APIIT | Staffordshire University
-📍 Location     : Sri Lanka
-💼 Status       : Open to Internships & Collaborations
-📧 Email        : eshandineth@gmail.com
-```
+I'm a **Software Engineering undergraduate** at APIIT Sri Lanka, affiliated with Staffordshire University.
 
-- 🔭 Currently exploring **Full-Stack Development** & **Cloud Technologies**
-- 🌱 Passionate about building clean, efficient solutions
-- ⚡ Fun fact: I debug with `console.log` and I'm proud of it!
+Currently exploring full-stack development and cloud technologies while building clean, efficient solutions.
+
+**Open to internships and collaborations.**
+
+<br>
 
 ---
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark" alt="Frontend & Backend"/>
