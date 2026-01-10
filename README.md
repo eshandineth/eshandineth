@@ -6,7 +6,7 @@
 <!-- Animated Greeting -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,9 +22,15 @@
 
 ## About Me
 
+<br>
+
 I'm a **Software Engineering undergraduate** at APIIT Sri Lanka, affiliated with Staffordshire University.
 
+<br>
+
 Currently exploring full-stack development and cloud technologies while building clean, efficient solutions.
+
+<br>
 
 **Open to internships and collaborations.**
 
