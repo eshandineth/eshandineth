@@ -1,126 +1,117 @@
-<![CDATA[<!-- Sleek Horizontal Banner -->
+<![CDATA[<!-- Header Image -->
 <p align="center">
-  <img src="banner.png" alt="Eshan Dineth" width="100%"/>
+  <img src="header.png" alt="Header" width="100%"/>
 </p>
 
-<!-- Professional Header -->
-<h1 align="center">Eshan Dineth</h1>
-<h3 align="center">Software Developer • Computer Science Student • Open Source Enthusiast</h3>
-
+<!-- Animated Greeting -->
 <p align="center">
-  <a href="https://linkedin.com/in/eshandineth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:eshandineth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/eshandineth"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=eshandineth&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Eshan+Dineth;Software+Engineering+Enthusiast;Full-Stack+Developer;Problem+Solver+%7C+Code+Crafter" alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Science undergraduate** passionate about building impactful software solutions. Currently exploring full-stack development, cloud technologies, and contributing to open-source projects.
-
-- 🎓 **Education:** B.Sc. in Computer Science (University Name)
-- 🌍 **Location:** Sri Lanka
-- 💼 **Open to:** Internships, Graduate Roles, Freelance Projects
-- 📫 **Reach me:** [eshandineth@gmail.com](mailto:eshandineth@gmail.com)
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-```
-JavaScript • TypeScript • Python • Java • HTML/CSS • SQL
-```
-
-**Frameworks & Technologies**
-```
-React.js • Next.js • Node.js • Express.js • Spring Boot • TailwindCSS
-```
-
-**Databases & Cloud**
-```
-MySQL • MongoDB • PostgreSQL • Firebase • AWS • Docker
-```
-
-**Tools & Practices**
-```
-Git • GitHub • VS Code • Figma • Agile • REST APIs • CI/CD
-```
-
----
-
-## 📊 GitHub Analytics
-
+<!-- Profile Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshandineth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=eshandineth&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <a href="https://github.com/eshandineth?tab=followers">
+    <img src="https://img.shields.io/github/followers/eshandineth?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project Name 1</h3>
-      <p align="center">
-        <a href="https://github.com/eshandineth/project1" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p align="center"><strong>React, Node.js, MongoDB</strong></p>
-      <p align="center">Brief description of what this project does and the problem it solves.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Name 2</h3>
-      <p align="center">
-        <a href="https://github.com/eshandineth/project2" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p align="center"><strong>Python, FastAPI, PostgreSQL</strong></p>
-      <p align="center">Brief description of what this project does and the problem it solves.</p>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> 💡 *Update the projects above with your actual repositories and descriptions*
+🎓 **Computer Science Undergraduate** passionate about creating elegant solutions
+
+💻 Currently exploring **Full-Stack Development** & **Cloud Technologies**
+
+🚀 Always learning and building innovative projects
+
+🌱 Open to **Internships**, **Collaborations** & **Freelance Opportunities**
+
+📫 Reach me at **eshandineth@gmail.com**
+
+⚡ Fun fact: *I debug with console.log and I'm proud of it!*
+
+<br clear="both">
 
 ---
 
-## 📜 Certifications & Achievements
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| AWS Cloud Practitioner | Amazon Web Services | 2024 |
-| Full Stack Development | Coursera | 2024 |
-| *Add your certifications* | - | - |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark" alt="Frontend & Backend"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,firebase,docker,git&theme=dark" alt="Languages & Tools"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,aws,linux&theme=dark" alt="Tools & Platforms"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
-I'm always interested in collaborating on innovative projects and discussing new opportunities.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshandineth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<!-- Trophies Section -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eshandineth&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</p>
+
+---
+
+<!-- Connect Section -->
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/eshandineth">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:eshandineth@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/eshandineth">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/eshandineth">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+<h3 align="center">💜 Thanks for visiting! Let's build something amazing together! 💜</h3>
 ]]>
