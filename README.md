@@ -3,40 +3,15 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="Header" width="100%"/>
 </p>
 
-<!-- Animated Greeting -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Eshan Dineth</h1>
 
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eshandineth&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://github.com/eshandineth?tab=followers">
-    <img src="https://img.shields.io/github/followers/eshandineth?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
-<br>
-
----
-
-<br>
-
-## About Me
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=eshandineth.eshandineth)
 
 <p align="justify">
 A passionate and driven software engineering student at APIIT Sri Lanka (Staffordshire University), eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.
 </p>
 
-<br>
-
----
-
-<br>
-
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&theme=dark" alt="Frontend & Backend"/>
@@ -48,13 +23,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,postman,aws,linux&theme=dark" alt="Tools & Platforms"/>
 </p>
 
-<br>
-
----
-
-<br>
-
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
@@ -69,25 +38,13 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-<br>
-
----
-
-<br>
-
-## GitHub Trophies
+<h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eshandineth&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </p>
 
-<br>
-
----
-
-<br>
-
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/eshandineth">
@@ -104,18 +61,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   </a>
 </p>
 
-<br>
-
----
-
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<h3 align="center">Thanks for visiting! Let's build something amazing together!</h3>
 ]]>
