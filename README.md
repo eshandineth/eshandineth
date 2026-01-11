@@ -42,13 +42,16 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Last Commit"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Connect With Me</h2>
 
