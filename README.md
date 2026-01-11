@@ -37,20 +37,14 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshandineth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Monthly Commits"/>
+  <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Last Commit"/>
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
 <h2 align="center">Connect With Me</h2>
 
