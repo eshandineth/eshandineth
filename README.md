@@ -37,9 +37,8 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&cacheSeconds=300" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&cacheSeconds=300" alt="Monthly Commits"/>
-  <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&cacheSeconds=300" alt="Last Commit"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=transparent&currStreakNum=A855F7&sideNums=A855F7&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=A855F7&stroke=A855F7&ring=A855F7&fire=A855F7&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <table>
