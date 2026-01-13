@@ -37,12 +37,9 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/eshandineth?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolombo&config.display=regular&base.repositories=0&base.activity=1&base.metadata=1&base.community=1&base.header=1&config.animations=true&config.twemoji=true&config.order=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&commits.authoring=eshandineth&config.output=svg" alt="GitHub Metrics" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-Click%20To%20View-A855F7?style=for-the-badge&logo=github" alt="Total Contributions"/>
-  <img src="https://img.shields.io/github/followers/eshandineth?style=for-the-badge&logo=github&color=A855F7" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Monthly Commits"/>
+  <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Last Commit"/>
 </p>
 
 <table>
@@ -51,7 +48,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+      <img src="https://raw.githubusercontent.com/eshandineth/eshandineth/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
     </td>
   </tr>
 </table>
