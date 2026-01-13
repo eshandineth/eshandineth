@@ -37,8 +37,12 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshandineth&show_icons=true&theme=transparent&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshandineth&theme=transparent&currStreakNum=A855F7&sideNums=A855F7&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=A855F7&stroke=A855F7&ring=A855F7&fire=A855F7&hide_border=true" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/eshandineth?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolombo&config.display=regular&base.repositories=0&base.activity=1&base.metadata=1&base.community=1&base.header=1&config.animations=true&config.twemoji=true&config.order=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&commits.authoring=eshandineth&config.output=svg" alt="GitHub Metrics" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-Click%20To%20View-A855F7?style=for-the-badge&logo=github" alt="Total Contributions"/>
+  <img src="https://img.shields.io/github/followers/eshandineth?style=for-the-badge&logo=github&color=A855F7" alt="Followers"/>
 </p>
 
 <table>
