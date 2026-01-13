@@ -37,9 +37,9 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Monthly Commits"/>
-  <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&cacheSeconds=300" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&cacheSeconds=300" alt="Monthly Commits"/>
+  <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&cacheSeconds=300" alt="Last Commit"/>
 </p>
 
 <table>
