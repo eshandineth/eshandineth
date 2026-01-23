@@ -24,11 +24,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Tech+Stack" alt="Tech Stack"/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
   <br/>
 
@@ -61,13 +57,11 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 
 </div>
 
+<br/><br/>
+
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
   <br/>
 
@@ -87,13 +81,11 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 
 </div>
 
+<br/><br/>
+
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%F0%9F%A4%9D+Connect+With+Me" alt="Connect With Me"/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
   <br/>
 
