@@ -26,7 +26,7 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
   
-  ## ⚡ Tech Stack
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Tech+Stack" alt="Tech Stack"/>
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
@@ -61,28 +61,42 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Monthly Commits"/>
-  <img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Last Commit"/>
-</p>
+  <br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-    </td>
-  </tr>
-</table>
+  <a href="#"><img src="https://img.shields.io/github/stars/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="GitHub Stars"/></a>
+  <a href="#"><img src="https://img.shields.io/github/commit-activity/m/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Monthly Commits"/></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/eshandineth/eshandineth?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117" alt="Last Commit"/></a>
 
-<h2 align="center">Connect With Me</h2>
+  <br/><br/>
 
-<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+
+  <br/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%F0%9F%A4%9D+Connect+With+Me" alt="Connect With Me"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/eshan-dineth-213422297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -92,7 +106,10 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
   <a href="https://www.instagram.com/_.es_haaa._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
+
+  <br/><br/>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
