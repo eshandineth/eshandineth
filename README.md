@@ -73,12 +73,6 @@ A passionate and driven software engineering student at APIIT Sri Lanka (Staffor
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshandineth&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
-
-  <br/>
-
 </div>
 
 <br/><br/>
