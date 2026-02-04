@@ -1,12 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none">
   <defs>
     <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#a855f7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#6366f1">
+        <animate attributeName="stop-color" values="#6366f1;#a855f7;#ec4899;#6366f1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#ec4899;#6366f1;#a855f7" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ec4899">
+        <animate attributeName="stop-color" values="#ec4899;#6366f1;#a855f7;#ec4899" dur="4s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
   </defs>
-  <path fill="url(#waveGradient)" d="M0,100 L0,40 Q120,80 240,50 T480,55 T720,45 T960,55 T1200,50 T1440,60 L1440,100 Z"/>
-  <path fill="url(#waveGradient)" opacity="0.6" d="M0,100 L0,60 Q180,30 360,55 T720,50 T1080,60 T1440,45 L1440,100 Z"/>
-  <path fill="url(#waveGradient)" opacity="0.3" d="M0,100 L0,70 Q240,50 480,65 T960,55 T1440,70 L1440,100 Z"/>
+  
+  <!-- Wave Layer 1 - Main wave -->
+  <path fill="url(#waveGradient)">
+    <animate 
+      attributeName="d" 
+      dur="3s" 
+      repeatCount="indefinite"
+      values="
+        M0,100 L0,40 Q120,80 240,50 T480,55 T720,45 T960,55 T1200,50 T1440,60 L1440,100 Z;
+        M0,100 L0,50 Q120,30 240,60 T480,45 T720,55 T960,45 T1200,60 T1440,40 L1440,100 Z;
+        M0,100 L0,40 Q120,80 240,50 T480,55 T720,45 T960,55 T1200,50 T1440,60 L1440,100 Z
+      "/>
+  </path>
+  
+  <!-- Wave Layer 2 - Middle wave -->
+  <path fill="url(#waveGradient)" opacity="0.6">
+    <animate 
+      attributeName="d" 
+      dur="4s" 
+      repeatCount="indefinite"
+      values="
+        M0,100 L0,60 Q180,30 360,55 T720,50 T1080,60 T1440,45 L1440,100 Z;
+        M0,100 L0,50 Q180,70 360,45 T720,60 T1080,40 T1440,55 L1440,100 Z;
+        M0,100 L0,60 Q180,30 360,55 T720,50 T1080,60 T1440,45 L1440,100 Z
+      "/>
+  </path>
+  
+  <!-- Wave Layer 3 - Front wave -->
+  <path fill="url(#waveGradient)" opacity="0.3">
+    <animate 
+      attributeName="d" 
+      dur="5s" 
+      repeatCount="indefinite"
+      values="
+        M0,100 L0,70 Q240,50 480,65 T960,55 T1440,70 L1440,100 Z;
+        M0,100 L0,55 Q240,75 480,50 T960,65 T1440,55 L1440,100 Z;
+        M0,100 L0,70 Q240,50 480,65 T960,55 T1440,70 L1440,100 Z
+      "/>
+  </path>
 </svg>
